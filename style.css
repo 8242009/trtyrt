@@ -1,0 +1,23 @@
+#camera ,#result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+
+}
+
+body {
+    background: -webkit-linear-gradient(top,red, orange , yellow, green, cyan, blue, violet);
+}
+
+h3 {
+    position:fixed;
+    top: -2%;
+    left: 39%;
+
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to top, cyan, blue, violet);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
